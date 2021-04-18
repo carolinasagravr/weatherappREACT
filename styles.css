@@ -1,0 +1,17 @@
+.App {
+  background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.App ul{
+
+}
+.App li {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 25px;
+  list-style: none;
+}
